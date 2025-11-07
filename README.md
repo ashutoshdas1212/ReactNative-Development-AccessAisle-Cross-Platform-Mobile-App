@@ -1,4 +1,4 @@
-#  React Native Shopping Application 
+#  AccessAisle
 
 A comprehensive React Native e-commerce application built with modern technologies, featuring user authentication, product browsing, shopping cart management, wishlist functionality, and profile management. This project demonstrates advanced React Native development patterns including Redux state management, navigation, image handling, and API integration.
 
