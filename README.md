@@ -30,7 +30,7 @@ Video Link: https://drive.google.com/file/d/14JGzB-pFQRHnGiapeR19pzd23ViRHYw5/vi
 
 ## 📍 Repository Location
 
-This project is part of the [ReactNativeTraining repository](https://github.com/ashutoshdas1212/ReactNativeTraining/tree/master/LoginSignUp29052025) and is located in the `LoginSignUp29052025` folder. The repository contains multiple React Native training projects, and this specific folder contains the shopping application implementation.
+This project is part of the [ReactNativeDevelopment repository](https://github.com/ashutoshdas1212/ReactNativeTraining/tree/master/LoginSignUp29052025) and is located in the `LoginSignUp29052025` folder. The repository contains multiple React Native training projects, and this specific folder contains the shopping application implementation.
 
 ## 📱 Features
 
